@@ -1,14 +1,13 @@
 # 🕌 Islamic Discord Bot
 
-
-A Discord bot that provides daily Hadith and automatic prayer time reminders for Muslim communities.
+A Discord bot that provides automatic prayer time reminders and sends a random Hadith when you type `$wa`.
 
 ---
 
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/islamic-discord-bot.git
+git clone https://github.com/n4m3less07/islami-discord-bot
 cd islamic-discord-bot
 
 cp .env.example .env
